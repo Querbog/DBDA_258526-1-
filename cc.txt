@@ -1,0 +1,6 @@
+Cloud Computing majorly works on virtualization of a platform or an enviroment
+This makes those resources available easily and anywhere only the constraint is network and hardware
+Types of cloud platforms
+IAAS
+PAAS
+SAAS
